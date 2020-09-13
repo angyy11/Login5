@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login4</string>
+    <string name="chkBox1">By submitting this form, I  agree to GWS\'s TERMS &amp; CONDITIONS and PRIVACY POLICY. I hereby confirm that the information provided is accurate, complete and up-to-date.</string>
+    <string name="chkBox2">I would like to receive GWS promotional updates.</string>
+</resources>
